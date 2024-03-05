@@ -39,7 +39,7 @@ Before you start, ensure you have:
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 - [Andrew Etter's Modern Technical Writing](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-- [Markdown Guide - Basic Syntax] (https://www.markdownguide.org/basic-syntax/)
+- [Markdown Guide - Basic Syntax ](https://www.markdownguide.org/basic-syntax/)
 
 ## Authors and Acknowledgements
 
