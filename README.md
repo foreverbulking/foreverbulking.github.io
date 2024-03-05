@@ -17,7 +17,10 @@ To effectively follow this guide, you should have:
 - Your resume formatted in Markdown, which allows for straightforward content creation and formatting.
 - Jekyll installed on your computer, useful for local website testing and ensuring your site appears as intended before publishing (optional but recommended for a complete understanding).
 
-![resume](https://github.com/foreverbulking/foreverbulking.github.io/assets/63769634/fc5b9fc3-1881-4e4a-97ac-51141e07f851)
+### Find my resume at "foreverbulking.github.io"
+
+![ScreenRecording2024-03-05at5 20 19PM-ezgif com-video-to-gif-converter](https://github.com/foreverbulking/foreverbulking.github.io/assets/63769634/0310b37a-d7f1-4dfa-8be5-9c455b2f509a)
+
 
 ## Instructions
 
