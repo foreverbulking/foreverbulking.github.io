@@ -1,6 +1,6 @@
 # Resume Hosting Guide
 
-Welcome to the GitHub repository where I, Nishan Sanyasi, host my resume using GitHub Pages and Jekyll. This README will guide you through how to host your own resume on GitHub Pages, following the principles of modern technical writing as recommended by Andrew Etter.
+Welcome to the GitHub repository where I, Nishan Sanyasi, host my markdown resume using GitHub Pages. This README will guide you through how to host your resume on GitHub Pages, following the principles of modern technical writing as recommended by Andrew Etter.
 
 ## Purpose
 
@@ -55,8 +55,4 @@ A: Markdown is lightweight, portable, and platform-independent. It simplifies co
 **Q: Why is my resume not showing up?**
 A: Ensure your repository is named `<yourusername>.github.io`, your resume file is named `index.md`, and you've pushed the changes to GitHub. It may take a few minutes for the changes to go live.
 
-## Animated GIF
 
-(Include an animated GIF showing the process of editing or viewing your resume on GitHub Pages.)
-
-Thank you for visiting my resume repository. For more information or to view my resume, please visit [Nishan Sanyasi's Resume](https://<yourusername>.github.io).
