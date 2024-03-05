@@ -17,7 +17,8 @@ Before you start, ensure you have:
 - Your resume formatted in Markdown.
 - Jekyll installed on your computer for local testing (optional).
 
- ![Screen Recording 2024-03-05 at 2 29 57 PM (1)](https://github.com/foreverbulking/foreverbulking.github.io/assets/63769634/5df939a5-87c9-42e2-8e4b-ae6905216ff3)
+ ![resume](https://github.com/foreverbulking/foreverbulking.github.io/assets/63769634/fc5b9fc3-1881-4e4a-97ac-51141e07f851)
+
 
 
 ## Instructions
