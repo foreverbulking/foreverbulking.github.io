@@ -6,7 +6,7 @@
 - LinkedIn: [linkedin.com/in/nishansanyasi](https://www.linkedin.com/in/johndoe)
 - GitHub: [github.com/foreverbulking](https://github.com/foreverbulking)
 
-## Work Expeience 
+## Work Experience 
 
 ### Front End Representative at Superstore
 2017 - 2023 
@@ -18,10 +18,10 @@
 ## Projects
 
 ### LeetCode Clone 
- ### React, Node.js, Firebase - 2024
-- Built a LeetCode-inspired coding practice platform.
-- Designed an intuitive user interface with problem search and filtering features.
-- Integrated a real-time code editor for seamless solution testing.
+#### React, Node.js, Firebase - 2024
+- Built a LeetCode-inspired coding practice platform
+- Designed an intuitive user interface with problem search and filtering features
+- Integrated a real-time code editor for seamless solution testing
 
 ### Garbage Collection Simulation  
 
@@ -36,13 +36,11 @@
     mechanism to reduce the overhead of garbage collection
 
 ### UM Bookstore
- Group Project (HTML, CSS, Javascript) - 2023
+#### Group Project (HTML, CSS, Javascript) - 2023
 
-- Orchestrated a team of four to develop UM Bookstore.
-- Boosted textbook query speed by 50% through the implementation of a tree structure.
-- Integrated user-friendly features for browsing, searching, and purchasing textbooks.
-
-
+- collaborated with a team of four to develop UM Bookstore
+- Boosted textbook query speed by 50% through the implementation of a tree structure
+- Integrated user-friendly features for browsing, searching, and purchasing textbooks
 
 
 ## Education
