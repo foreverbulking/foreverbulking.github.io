@@ -15,25 +15,31 @@ To effectively follow this guide, you should have:
 - A GitHub account, enabling you to host and manage your files on a distributed version control platform.
 - An introductory level understanding of Markdown and Git, essential for creating and maintaining technical documents and code.
 - Your resume formatted in Markdown, which allows for straightforward content creation and formatting.
-- Jekyll installed on your computer, useful for local website testing and ensuring your site appears as intended before publishing (optional but recommended for a complete understanding).
-
-### Find my resume at "foreverbulking.github.io"
-
-![ScreenRecording2024-03-05at5 20 19PM-ezgif com-video-to-gif-converter](https://github.com/foreverbulking/foreverbulking.github.io/assets/63769634/0310b37a-d7f1-4dfa-8be5-9c455b2f509a)
-
 
 ## Instructions
 
-1. **Set Up Your GitHub Repository**
-   - Create a new repository on GitHub named `<yourusername>.github.io`. This name is crucial as GitHub Pages automatically turns this repository into your hosting site.
-   
-2. **Prepare Your Resume**
-   - Format your resume in Markdown, enabling ease of formatting and adaptability. Name the file `index.md` to ensure GitHub Pages identifies it as the main page.
-   - Add the `index.md` file to the root directory of your cloned repository, ensuring it's in the correct location for GitHub Pages to find and display.
+### 1. Set Up Your GitHub Repository
+1. **Visit GitHub**: Navigate to [GitHub](https://github.com) and log in.
+2. **Create a New Repository**: Click the '+' icon in the top-right corner and select 'New repository'.
+3. **Name Your Repository**: Type `<yourusername>.github.io` as the repository name, replacing `<yourusername>` with your actual GitHub username. Keep other options default.
+4. **Create Repository**: Click the 'Create repository' button.
 
-3. **Publish Your Resume**
-   - Commit and push your changes to GitHub using the commands `git add .`, `git commit -m "Publish my resume"`, and `git push origin master`. These commands add your changes, commit them with a message, and push them to your GitHub repository.
-   - Once pushed, your resume will be accessible at `https://<yourusername>.github.io`.
+### 2. Prepare Your Resume
+1. **Write Your Resume**: Open your favorite text editor, write your resume using Markdown, and save the file as `index.md`.
+2. **Locate Your Resume**: Move or save your `index.md` file to a known location on your Mac for easy access.
+
+### 3. Publish Your Resume
+1. **Open Terminal**: Find the Terminal app in your Applications > Utilities folder and open it.
+2. **Navigate to Your Resume**: Type `cd path/to/your/resume`, replacing `path/to/your/resume` with the actual path where your `index.md` is located, then press Enter.
+3. **Initialize Git**: Type `git init` and press Enter to initialize a new Git repository.
+4. **Connect to GitHub**: Type `git remote add origin https://github.com/<yourusername>/<yourusername>.github.io.git`, replace `<yourusername>` with your GitHub username, and press Enter.
+5. **Add Your Resume**: Type `git add index.md` and press Enter to add your resume file to Git.
+6. **Commit Your Changes**: Type `git commit -m "Publish my resume"` and press Enter to commit your resume file to your repository.
+7. **Upload Your Resume**: Type `git push -u origin master` and press Enter to push your resume to GitHub Pages.
+
+Your resume is now live and can be viewed at `https://<yourusername>.github.io`.
+
+
 
 ## More Resources
 
@@ -41,6 +47,10 @@ To effectively follow this guide, you should have:
 - [Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll): Instructions for integrating Jekyll for more sophisticated site layouts.
 - [Andrew Etter's Modern Technical Writing](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS): Essential reading for understanding the principles behind modern documentation practices.
 - [Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/): Basic syntax reference for Markdown formatting.
+
+### Find my resume at "foreverbulking.github.io"
+
+![ScreenRecording2024-03-05at5 20 19PM-ezgif com-video-to-gif-converter](https://github.com/foreverbulking/foreverbulking.github.io/assets/63769634/0310b37a-d7f1-4dfa-8be5-9c455b2f509a)
 
 ## Authors and Acknowledgements
 
