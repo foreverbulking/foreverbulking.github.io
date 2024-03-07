@@ -26,8 +26,7 @@ To effectively follow this guide, you should have:
 
 1. **Set Up Your GitHub Repository**
    - Create a new repository on GitHub named `<yourusername>.github.io`. This name is crucial as GitHub Pages automatically turns this repository into your hosting site.
-   - Clone the repository to your local machine, providing you with a local copy to work on and test.
-
+   - 
 2. **Prepare Your Resume**
    - Format your resume in Markdown, enabling ease of formatting and adaptability. Name the file `index.md` to ensure GitHub Pages identifies it as the main page.
    - Add the `index.md` file to the root directory of your cloned repository, ensuring it's in the correct location for GitHub Pages to find and display.
