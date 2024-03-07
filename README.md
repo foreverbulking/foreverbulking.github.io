@@ -64,3 +64,23 @@ A: Markdown's lightweight and readable format makes it easier to write, edit, an
 
 **Q: Why might my resume not appear immediately on my GitHub Page?**
 A: After updating your repository, it can take a few minutes for GitHub Pages to process and publish the changes. Ensure your repository and file names are correct, and double-check your Git commands. If the problem persists, verify your GitHub Pages settings in the repository settings.
+
+**Q: How do I update my resume once it's on GitHub Pages?**
+A: Edit the `index.md` file with your updates, save it, then run `git add index.md`, `git commit -m "Update resume"`, and `git push origin master` in the Terminal. The changes will reflect on your GitHub Page shortly after.
+
+**Q: What should I do if I get a 'permission denied' error when trying to push to GitHub?**
+A: This usually happens if you haven't set up your SSH key or if your GitHub access token has expired. Check GitHub's documentation on setting up a new SSH key or updating your access token.
+
+**Q: Can I add images or other media to my Markdown resume?**
+A: Yes, you can! Markdown allows you to embed images using the syntax `![Alt text](URL_to_image)`. However, remember that your resume should be professional, so only add media that enhances your application.
+
+**Q: How can I view my Markdown file before pushing it to GitHub?**
+A: You can use a Markdown editor that has a preview feature, or install a Markdown preview extension in your text editor. This lets you see how your document will look before publishing it.
+
+**Q: What if I want to use a different theme for my GitHub Pages site?**
+A: GitHub Pages supports Jekyll themes, which you can specify in your repository settings. Browse the available themes in the 'Theme Chooser' section and select one that suits your resume style.
+
+**Q: Why should I use Git commands in the terminal instead of a GUI tool?**
+A: Using Git commands in the terminal helps you understand what each operation does and gives you more control. While GUI tools are convenient, terminal commands can offer more flexibility and a deeper understanding of Git.
+
+
